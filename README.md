@@ -99,7 +99,7 @@ Jawaharlal Nehru Technological University (JNTUK), Kakinada, India *(October 202
 ## 🔗 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/prudhvi-yelineni) — Connect with me
-- 📧 Email — prudhvi.yelineni@example.com *(Update with your email)*
+- 📧 Email — yelineniprudhvichowdary@gmail.com 
 - 🐙 [GitHub](https://github.com/yelineni) — Check out my projects
 
 ---
